@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Dion\source\repos\security_ASP\WebApp\Pages\HumanResource.cshtml</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Dion\source\repos\security_ASP\WebApp\Pages\Index.cshtml.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Dion\source\repos\security_ASP\WebApp\Pages\Account\Login.cshtml.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Dion\source\repos\security_ASP\WebApp\Pages\Account\Login.cshtml</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Dion\source\repos\security_ASP\WebApp\Program.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Dion\source\repos\security_ASP\WebApp\Pages\HumanResource.cshtml.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Dion\source\repos\security_ASP\WebApp\Pages\Account\AccessDenied.cshtml</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Dion\source\repos\security_ASP\WebApp\Pages\Account\AccessDenied.cshtml.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>

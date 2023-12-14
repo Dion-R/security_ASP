@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\dion.ALC\\.nuget\\packages\\": {}
+    "C:\\Users\\Dion\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dion.ALC\\source\\repos\\SecurityApplicationSolution\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\Dion\\Source\\Repos\\security_ASP\\WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "C:\\Users\\dion.ALC\\source\\repos\\SecurityApplicationSolution\\WebApp\\WebApp.csproj",
-      "packagesPath": "C:\\Users\\dion.ALC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dion.ALC\\source\\repos\\SecurityApplicationSolution\\WebApp\\obj\\",
+      "projectPath": "C:\\Users\\Dion\\Source\\Repos\\security_ASP\\WebApp\\WebApp.csproj",
+      "packagesPath": "C:\\Users\\Dion\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dion\\Source\\Repos\\security_ASP\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dion.ALC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dion\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
